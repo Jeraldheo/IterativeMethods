@@ -1,2 +1,2 @@
 # IterativeMethods
-Implementations of some algoritms to solve linear system with iteratives techniques(Jacobi, SOR, etc.)
+Implementations of some algorithms to solve linear system with iteratives techniques(Jacobi, SOR, etc.)
